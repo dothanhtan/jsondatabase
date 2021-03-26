@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "name": "Do Sau",
+        "birthYear": 1954,
+        "gender": "male",
+        "favFood": {
+            "likes": [
+                "Fish",
+                "Meat",
+                "Vegetables",
+                "Fruit"
+            ],
+            "dislikes": [
+                "Beer",
+                "Wine"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Huynh Thi Mai",
+        "birthYear": 1959,
+        "gender": "female",
+        "favFood": {
+            "likes": [
+                "Fish",
+                "Meat",
+                "Vegetables",
+                "Fruit",
+                "Tea"
+            ],
+            "dislikes": [
+                "Cake",
+                "Candy"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Do Thanh Tuan",
+        "birthYear": 1977,
+        "gender": "male",
+        "favFood": {
+            "likes": [
+                "Vegetables",
+                "Fruit",
+                "Tea"
+            ],
+            "dislikes": [
+                "Fish",
+                "Meat"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Do Thanh Tu",
+        "birthYear": 1979,
+        "gender": "male",
+        "favFood": {
+            "likes": [
+                "Vegetables",
+                "Fruit",
+                "Coffee"
+            ],
+            "dislikes": [
+                "Beer",
+                "Wine",
+                "Fish"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Do Thi Kim Anh",
+        "birthYear": 1981,
+        "gender": "female",
+        "favFood": {
+            "likes": [
+                "Fish",
+                "Vegetables",
+                "Fruit"
+            ],
+            "dislikes": [
+                "Meat"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Do Thi Kim Lien",
+        "birthYear": 1984,
+        "gender": "female",
+        "favFood": {
+            "likes": [
+                "Fish",
+                "Vegetables",
+                "Fruit",
+                "Meat"
+            ],
+            "dislikes": [
+                "Cake",
+                "Candy"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Do Thanh Tung",
+        "birthYear": 1993,
+        "gender": "male",
+        "favFood": {
+            "likes": [
+                "Fish",
+                "Vegetables",
+                "Fruit",
+                "Meat"
+            ],
+            "dislikes": [
+                "Wine",
+                "Beer"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Do Thanh Tan",
+        "birthYear": 1998,
+        "gender": "male",
+        "favFood": {
+            "likes": [
+                "Vegetables",
+                "Fruit",
+                "Meat",
+                "Seashore"
+            ],
+            "dislikes": [
+                "Candy",
+                "Cake"
+            ]
+        }
+    }
+]
